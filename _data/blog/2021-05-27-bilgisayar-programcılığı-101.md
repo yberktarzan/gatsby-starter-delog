@@ -41,7 +41,7 @@ Burada *önemli anahtar kelimeler* şunlardır:
 
 ## Bilgisayar Programcılığı Dersleri
 
-Her üniversitede genel olarak dersler aynıdır fakat her üniversitenin kendi ders planında farklı dersler bulunabilmektedir. Genel olarak:
+Genel olarak dersler aynıdır fakat üniversiteden üniversiteye değişiklik gösterebilir.
 
 * Programlamaya Giriş – Algoritma
 * Bilgisayar Ağları
@@ -53,4 +53,4 @@ Her üniversitede genel olarak dersler aynıdır fakat her üniversitenin kendi 
 * Veri Yapıları
 * Bilgisayar Donanımı
 * Mobil Programlama
-* Diller: C/C++, C#, Java, Python, SQL,  HTML – CSS – Javascript
+* Diller: C/C++, C#, Java, Python, SQL,  HTML – CSS – Javascript - ASP - PHP
