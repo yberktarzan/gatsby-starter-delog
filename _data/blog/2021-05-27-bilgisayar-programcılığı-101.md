@@ -4,7 +4,7 @@ path: /bilprog101
 date: 2021-05-27T12:57:24.785Z
 title: Bilgisayar Programcılığı 101
 metaDescription: Bilgisayar Programcılığı – Yol Haritası
-thumbnail: ''
+thumbnail: /assets/OzelMac.JPG
 ---
 # Bilgisayar Programcılığı – Yol Haritası
 
